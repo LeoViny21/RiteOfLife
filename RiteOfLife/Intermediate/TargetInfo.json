@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RiteOfLife",
+			"Path": "..\\Source\\RiteOfLife.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RiteOfLifeEditor",
+			"Path": "..\\Source\\RiteOfLifeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

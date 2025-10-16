@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\riteoflife\\source\\riteoflife\\variant_shooter\\weapons\\shooterweaponholder.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\riteoflife\\intermediate\\build\\win64\\x64\\riteoflifeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\riteoflife\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\riteoflife\\definitions.riteoflife.h",
+            "d:\\unreal\\riteoflife\\source\\riteoflife\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "d:\\unreal\\riteoflife\\intermediate\\build\\win64\\unrealeditor\\inc\\riteoflife\\uht\\shooterweaponholder.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

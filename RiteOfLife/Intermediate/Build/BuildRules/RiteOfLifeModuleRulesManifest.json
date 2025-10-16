@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal\\RiteOfLife\\Source\\RiteOfLife\\RiteOfLife.Build.cs",
+		"D:\\Unreal\\RiteOfLife\\Source\\RiteOfLife.Target.cs",
+		"D:\\Unreal\\RiteOfLife\\Source\\RiteOfLifeEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
