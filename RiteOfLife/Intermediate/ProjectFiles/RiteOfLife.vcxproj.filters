@@ -33,6 +33,12 @@
     <Filter Include="Source\RiteOfLife">
       <UniqueIdentifier>{B996D57B-A5B0-35CD-906B-8CD4EC96934F}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\RiteOfLife\NewScroll.cpp">
+      <Filter>Source\RiteOfLife</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RiteOfLife\NewScroll.h">
+      <Filter>Source\RiteOfLife</Filter>
+    </ClInclude>
     <None Include="..\..\Source\RiteOfLife\RiteOfLife.Build.cs">
       <Filter>Source\RiteOfLife</Filter>
     </None>
